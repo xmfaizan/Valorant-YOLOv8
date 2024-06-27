@@ -1,0 +1,8 @@
+path: C:\Users\faiza\Documents\Val-yolov8
+train: img/train/images
+val: img/valid/images
+
+# Classes
+names:
+  0: enemy
+  1: enemy_head
